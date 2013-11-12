@@ -1,0 +1,3 @@
+.form { position:relative; margin:auto; margin-top:25px; padding:25px; width:500px; background-color:#DFDDB9; }
+.fields { border-right:#999 dotted 1px; border-bottom:#999 dotted 1px; }
+#submitBtn { cursor:pointer; }
